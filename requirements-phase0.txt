@@ -1,0 +1,7 @@
+# CPU-only validation and upstream probe-reproduction dependencies.
+# Versions are bounded for a small, reproducible Python 3.11 macOS-arm64 environment.
+numpy>=1.26,<2.1
+scipy>=1.11,<1.14
+scikit-learn>=1.4,<1.7
+pandas>=2.1,<2.3
+matplotlib>=3.8,<3.10

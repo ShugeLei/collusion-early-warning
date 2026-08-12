@@ -1,0 +1,11 @@
+.venv/
+.python/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Released NARCBench artifacts are downloaded locally, not committed.
+data/narcbench/
+
+# Upstream source checkout is reproducible from its recorded commit.
+external/narcbench/
